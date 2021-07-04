@@ -1,4 +1,6 @@
+# Enabling OpenVPN connection on Lantronix E210 routers
 
+As the process is not well documented by Lantronix or anywhere in the web, here is the step by step guide on how to setup OpenVPN connection between two routers.
 
 
 ## Generate Public Key Infrastructure with EasyRSA:
